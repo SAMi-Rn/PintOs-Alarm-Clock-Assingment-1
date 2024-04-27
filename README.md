@@ -16,7 +16,7 @@ The tests for Alarm single, multiple, simultaneous, zero, and negative have pass
 Clone the repository to get started:
 
 ```sh
-git clone https://github.com/SAMi-Rn/COMP_7035_OS_Assignment1.git](https://github.com/SAMi-Rn/Pintos-Alarm-Clock-Assingment-1.git
+git clone https://github.com/SAMi-Rn/Pintos-Alarm-Clock-Assingment-1.git
 ```
 ## Data Structures
 In `threads.h`, I introduced `ticks_to_wakeup` to track the tick count for when a thread should wake up and  `sleeping_elem` to manage the sleeping threads efficiently.

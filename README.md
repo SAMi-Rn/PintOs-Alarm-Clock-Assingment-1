@@ -1,4 +1,4 @@
-# Pintos Alarm Clock
+# PintOs Alarm Clock
 
 This project is part of COMP_7035_OS_Assignment1, where I've implemented an alarm clock functionality to enhance the Pintos Operating System. The aim was to create a more efficient timer sleep mechanism without busy waiting and ensure that threads sleep exactly the time they are supposed to.
 
